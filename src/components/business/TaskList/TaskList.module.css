@@ -1,0 +1,22 @@
+.taskList {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.empty {
+  text-align: center;
+  padding: 60px 20px;
+  color: #8c8c8c;
+}
+
+.emptyIcon {
+  font-size: 48px;
+  margin-bottom: 16px;
+  opacity: 0.5;
+}
+
+.emptyText {
+  font-size: 14px;
+}
+
